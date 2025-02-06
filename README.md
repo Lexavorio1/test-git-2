@@ -9,8 +9,5 @@ git reset --hard = отмена всего последнего
 
 master
 develop
-
-feature/main - page
-feature/about - company
-
-git merge - слияние веток
+feature/main-page
+feature/about-company
