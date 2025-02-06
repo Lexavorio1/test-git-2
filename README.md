@@ -7,4 +7,10 @@ git push [rep_link] [branch_name]
 git reset = отмена последнего
 git reset --hard = отмена всего последнего
 
+master
+develop
+
+feature/main - page
+feature/about - company
+
 git merge - слияние веток
